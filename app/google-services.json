@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "698290442055",
+    "project_id": "filamu-4fdff",
+    "storage_bucket": "filamu-4fdff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698290442055:android:47c50bf1d3379bdb2bc662",
+        "android_client_info": {
+          "package_name": "com.movie.filamu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698290442055-6k7nt0geqg0mj6gl3tmeh7jqrcjs2tk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWFuAPUz_SajcBpvyysED0O4GYbvYSbVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698290442055-6k7nt0geqg0mj6gl3tmeh7jqrcjs2tk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
